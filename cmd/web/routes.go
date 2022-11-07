@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github/MRC/firstgoweb/pkg/config"
-	"github/MRC/firstgoweb/pkg/handlers"
 	"net/http"
+
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/config"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/handlers"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"

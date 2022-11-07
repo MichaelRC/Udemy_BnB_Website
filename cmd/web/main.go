@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github/MRC/firstgoweb/pkg/config"
-	"github/MRC/firstgoweb/pkg/handlers"
-	"github/MRC/firstgoweb/pkg/render"
 	"log"
 	"net/http"
 	"time"
+
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/config"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/handlers"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/render"
 
 	"github.com/alexedwards/scs/v2"
 )

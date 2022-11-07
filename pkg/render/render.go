@@ -3,12 +3,13 @@ package render
 import (
 	"bytes"
 	"fmt"
-	"github/MRC/firstgoweb/pkg/config"
-	"github/MRC/firstgoweb/pkg/models"
 	"html/template"
 	"log"
 	"net/http"
 	"path/filepath"
+
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/config"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/models"
 )
 
 // A map of fuctions that can be used

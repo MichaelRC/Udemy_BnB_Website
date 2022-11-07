@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github/MRC/firstgoweb/pkg/config"
-	"github/MRC/firstgoweb/pkg/models"
-	"github/MRC/firstgoweb/pkg/render"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/config"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/models"
+	"github.com/MichaelRC/Udemy_BnB_Website/pkg/render"
 	"net/http"
 )
 
