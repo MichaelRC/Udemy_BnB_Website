@@ -13,3 +13,4 @@ Uses the following external dependencies:
 - [alex edwards SCS v2.5.0] (https://github.com/alexedwards/scs/v2)
 - [chi router v5.0.7] (https://github.com/go-chi/chi/v5)
 - [nosurf v1.1.1] (https://github.com/justinas/nosurf)
+- [Bootstrap v5.2] (https://getbootstrap.com/)
